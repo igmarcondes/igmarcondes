@@ -1,7 +1,5 @@
 ### Olá! Eu sou o Igor!
 
-
-- 🔭 Procurando Oportunidade.
 - 🌱 Estudando Javascript.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igmarcondes&count_private=true&show_icons=true&theme=dark)
