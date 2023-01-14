@@ -26,5 +26,3 @@
         <a href="https://open.spotify.com/user/lsx1i221afxl8j30yyo044v9v" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
   
 </div>
-
-![Snake animation](https://github.com/igmarcondes/igmarcondes/blob/output/github-contribution-grid-snake.svg)
