@@ -3,7 +3,8 @@
 - 🌱 Estudando Javascript.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igmarcondes&count_private=true&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igmarcondes&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igmarcondes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <div style="display: inline_block"><br>
