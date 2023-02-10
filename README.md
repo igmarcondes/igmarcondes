@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Igor!
 
-- 🌱 Estudando Javascript.
+- 🌱 Estudante Front-end HTML, CSS, JS e React
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igmarcondes)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igmarcondes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
